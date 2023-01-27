@@ -10,10 +10,17 @@ To run the code examples, you will need a C/C++ compiler installed on your compu
 The following examples are included in this repository:
 
 Hello World
+
 Variables and Data Types
+
 Control Flow
+
 Arrays and Strings
+
 Functions and Pointers
+
 Structures and Classes
+
 Linked Lists
+
 Stacks and Queues
